@@ -22,7 +22,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ### 1.2 Background
 
-![Background](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Background.pdf)
+![Background](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Background.jpg)
 
 
 ## 2. Data Set and Sources of the Project
