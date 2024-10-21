@@ -19,6 +19,12 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ● Do sales figures vary between geographic regions?
 
+
+### 1.2 Background
+
+![Background](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Background.pdf)
+
+
 ## 2. Data Set and Sources of the Project
 The data sets contain several columns which are displayed in the ERD below.
 
@@ -46,6 +52,7 @@ Please refer to the SQL Code Section: [SQL Code](https://github.com/DanielsData9
 ## 5. Insights and Visualizations
 
 ### 5.1 Which movies contributed the most/least to revenue gain?
+
 
 
 
