@@ -5,6 +5,20 @@ This project involves uploading data into a relational database to identify pote
 
 ## 1. Project Description
 In this project for Rockbuster Stealth LLC, I used SQL to load and analyze data from a movie rental company preparing to launch an online video service. The analysis addressed key business questions, such as identifying top-performing movies, understanding customer demographics, and analyzing regional sales trends. The insights provided strategic direction for Rockbuster's 2024 online launch, with the findings presented to the management board in a clear and visual format.
+
+### 1.1 Key Questions and Objectives
+The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
+
+● Which movies contributed the most/least to revenue gain?
+
+● What was the average rental duration for all videos?
+
+● Which countries are Rockbuster customers based in?
+
+● Where are customers with a high lifetime value based?
+
+● Do sales figures vary between geographic regions?
+
 ## 2. Data Set and Sources of the Project
 The data sets contain several columns which are displayed in the ERD below.
 
@@ -29,6 +43,17 @@ Visualizations: [Rockbuster-Stealth-Project](https://public.tableau.com/app/prof
 
 Please refer to the SQL Code Section: [SQL Code](https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code)
 
-## 5. Insights
+## 5. Insights and Visualizations
 
+### 5.1 Which movies contributed the most/least to revenue gain?
+
+
+
+### 5.2 What was the average rental duration for all videos?
+
+### 5.3 Which countries are Rockbuster customers based in?
+
+### 5.4 Where are customers with a high lifetime value based?
+
+### 5.5 Do sales figures vary between geographic regions?
 
