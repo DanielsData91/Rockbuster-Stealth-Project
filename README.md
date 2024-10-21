@@ -67,21 +67,21 @@ Please refer to the SQL Code Section: [SQL Code](https://github.com/DanielsData9
 
 ### 6.1 What genres made the highest sales in 2024?
 
-[Sales Genre](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/What%20genres%20made%20the%20highest%20sales%3F.jpg)
+![Sales Genre](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/What%20genres%20made%20the%20highest%20sales%3F.jpg)
 
 ### 6.2 Which ratings have the highest sales within the top genres?
 
-[Top Ratings](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Which%20ratings%20have%20the%20highest%20sales%20within%20the%20top%20genres%3F.jpg)
+![Top Ratings](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Which%20ratings%20have%20the%20highest%20sales%20within%20the%20top%20genres%3F.jpg)
 
 ### 6.3 Who are the Top 5 customers?
 
-[Top Customers](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Who%20are%20the%20Top%205%20Customers%3F.jpg)
+![Top Customers](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Who%20are%20the%20Top%205%20Customers%3F.jpg)
 
 ## 7. Findings and Results
 
-[Finginds](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Findings%20and%20Results.jpg)
+![Finginds](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Findings%20and%20Results.jpg)
 
 ### 8. Recommendations - How to perform in 2025?
 
-[Recommendations](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/How%20to%20perform%20in%202025%3F.jpg)
+![Recommendations](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/How%20to%20perform%20in%202025%3F.jpg)
 
