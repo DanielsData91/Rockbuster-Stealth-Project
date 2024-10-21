@@ -17,4 +17,5 @@ Data Source: [DVD Rental zip file](http://www.postgresqltutorial.com/wp-content/
 
 ## 3. Visualizations
 Visualizations were created in Tableau. Follow the link to see the visualizations
+
 Visualizations: [Rockbuster-Stealth-Project](https://public.tableau.com/app/profile/daniel.m.ller6696/viz/Project_Rockbuster/LeastRevenue2019)
