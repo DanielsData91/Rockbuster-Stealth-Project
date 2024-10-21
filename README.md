@@ -11,4 +11,6 @@ The data sets contain several columns about the rental service.
 
 Please have a look at the data dictionary for more detailed information
 
+Data Dictionary: [Data Dictionary](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Data%20Dictionary.pdf)
+
 Data Source: [DVD Rental zip file](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
