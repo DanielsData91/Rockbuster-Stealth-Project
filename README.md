@@ -9,15 +9,7 @@ In this project for Rockbuster Stealth LLC, I used SQL to load and analyze data 
 ### 1.1 Key Questions and Objectives
 The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
 
-● Which movies contributed the most/least to revenue gain?
-
-● What was the average rental duration for all videos?
-
-● Which countries are Rockbuster customers based in?
-
-● Where are customers with a high lifetime value based?
-
-● Do sales figures vary between geographic regions?
+[Key Questions](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Key%20Questions.jpg)
 
 
 ### 1.2 Background
@@ -55,12 +47,41 @@ Please refer to the SQL Code Section: [SQL Code](https://github.com/DanielsData9
 
 ![Movies](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Which%20movies%20contributed%20the%20least%20and%20the%20most%20to%20revenue%20gain%3F.jpg)
 
-
 ### 5.2 What was the average rental duration for all videos?
+
+![Rental Duration](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/What%20does%20these%20basic%20statistics%20tell%20us%3F.jpg)
 
 ### 5.3 Which countries are Rockbuster customers based in?
 
+![Country](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Which%20countries%20are%20Rockbuster%20customers%20based%20in%3F.jpg)
+
 ### 5.4 Where are customers with a high lifetime value based?
 
+![HLTV](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Where%20are%20customers%20with%20a%20high%20lifetime%20value%20based%3F.jpg)
+
 ### 5.5 Do sales figures vary between geographic regions?
+
+![Sales Figures](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Do%20sales%20figures%20vary%20between%20geographic%20regions%3F.jpg)
+
+## 6. Additional Insights
+
+### 6.1 What genres made the highest sales in 2024?
+
+[Sales Genre](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/What%20genres%20made%20the%20highest%20sales%3F.jpg)
+
+### 6.2 Which ratings have the highest sales within the top genres?
+
+[Top Ratings](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Which%20ratings%20have%20the%20highest%20sales%20within%20the%20top%20genres%3F.jpg)
+
+### 6.3 Who are the Top 5 customers?
+
+[Top Customers](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Who%20are%20the%20Top%205%20Customers%3F.jpg)
+
+## 7. Findings and Results
+
+[Finginds](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Findings%20and%20Results.jpg)
+
+### 8. Recommendations - How to perform in 2025?
+
+[Recommendations](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/How%20to%20perform%20in%202025%3F.jpg)
 
