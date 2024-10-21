@@ -53,7 +53,7 @@ Please refer to the SQL Code Section: [SQL Code](https://github.com/DanielsData9
 
 ### 5.1 Which movies contributed the most/least to revenue gain?
 
-
+![Movies](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/Rockbuster%20Images/Which%20movies%20contributed%20the%20least%20and%20the%20most%20to%20revenue%20gain%3F.jpg)
 
 
 ### 5.2 What was the average rental duration for all videos?
