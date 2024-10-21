@@ -24,4 +24,4 @@ Visualizations: [Rockbuster-Stealth-Project](https://public.tableau.com/app/prof
 
 ## 4. Processing, modelling analyzing the data
 
-Please refer to the SQL Code Section: [SQL Code](SQL Code)
+Please refer to the SQL Code Section: [SQL Code]
