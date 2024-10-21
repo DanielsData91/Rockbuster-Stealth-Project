@@ -5,6 +5,6 @@ In this project for Rockbuster Stealth LLC, I used SQL to load and analyze data 
 ## Data Set and Sources of the Project
 The data sets contain several columns about the rental service. Please have a look at the data dictionary for more detailed information
 
-Data Dictionary: [Data Dictionary](Data Dictionary.pdf)
+Data Dictionary: [Data Dictionary](Data Dictionary.pdf)  Data Dictionary.pdf
 
 Data Source: [DVD Rental zip file](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
