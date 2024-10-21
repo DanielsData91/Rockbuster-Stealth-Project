@@ -5,7 +5,7 @@ In this project for Rockbuster Stealth LLC, I used SQL to load and analyze data 
 ## 2. Data Set and Sources of the Project
 The data sets contain several columns about the rental service. 
 
-!(https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/ERD_Rockbuster.jpg)
+![ERD of Rockbuster-Stealth](https://github.com/DanielsData91/Rockbuster-Stealth-Project/blob/main/ERD_Rockbuster.jpg)
 
 
 
